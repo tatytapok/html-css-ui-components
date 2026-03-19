@@ -1,26 +1,54 @@
-# Frontend UI Snippets
+# HTML, CSS & JavaScript UI Components
 
-A collection of reusable **HTML, CSS and JavaScript UI elements** and layout experiments.
+A collection of **frontend UI components, layout patterns and JavaScript practice mini-projects**.
 
-This repository contains small frontend components, interface patterns, and layout techniques.
+This repository contains small experiments and reusable elements that I created.
 
-## Contents
+---
 
-The repository includes examples of:
+## 📦 Contents
 
-- UI components
-- layout techniques
-- CSS animations
-- navigation patterns
-- interface elements
+The repository includes:
 
-## Purpose
+### 🎨 UI Components (HTML & CSS)
+- Buttons
+- Navigation elements
+- Layout patterns
+- Responsive design examples
 
-This project serves as a personal **frontend experimentation and reference library** where I collect useful UI patterns and implementation ideas.
+### ⚙️ JavaScript Mini Projects
+- Interactive UI elements
+- DOM manipulation examples
+- Small logic-based features
 
+---
 
-## Technologies
+## 🧠 Purpose
+
+This project serves as a personal:
+
+- **UI component library**
+- **frontend experimentation space**
+- **JavaScript practice collection**
+---
+
+## 🛠 Technologies
 
 - HTML5
-- CSS3
-- JavaScript
+- CSS3 (Flexbox, Grid)
+- JavaScript (ES6+)
+
+## 📌 Examples
+
+| Component | Description |
+|----------|------------|
+| Buttons | Custom styled buttons |
+| html-css-elements | progress bar |
+|                   | stars rating |
+| JS Counter | Type Ahead Cities(searchbar) |
+|            | canvas |
+|            | clock(prototype) |
+|            | css variables (wed-css redactor) |
+|            | drums |
+|            | panel gallery (flex) |
+|            | to-do list (prototype)|
